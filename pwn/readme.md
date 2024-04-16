@@ -1,0 +1,1 @@
+pore delete kore debo 
