@@ -1,0 +1,6 @@
+Challenge Name --> Divide n Conquer
+
+Description -->
+   Bruh!! binwalk not binwalking? Try harder..
+
+   Flag Format: kernelkombat{Y0urM3ss4g3}
