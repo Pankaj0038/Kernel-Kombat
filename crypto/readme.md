@@ -1,1 +1,0 @@
-ekhane crypto er rakh
