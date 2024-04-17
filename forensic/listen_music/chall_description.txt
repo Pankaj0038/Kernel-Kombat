@@ -1,0 +1,5 @@
+listen_music........................................400 points
+
+
+
+hex is also a music, just try a different way to hear the music. flag format is : kernalkombat{y0ur_fl4g}
