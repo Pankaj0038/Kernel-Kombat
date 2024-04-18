@@ -1,0 +1,5 @@
+signals..........................................70 points
+
+what is it ???
+
+  flag format: kernelkombat{d3c0d3dfl4g}
