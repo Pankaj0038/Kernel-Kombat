@@ -2,3 +2,5 @@ Challenge Name --> What THE HELLLLLLLLL !!
 
 Description -->
    See it, feel it, BASICALLY you can HEAR it !!
+
+Flag Format:- kernelkombat{YOURMESSAGE}
