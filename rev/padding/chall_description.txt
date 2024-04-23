@@ -1,4 +1,4 @@
-chall name : PADDING ........................................ 200 points
+chall name : PADDING ........................................ 250 points
 
 I just learned about an encryption algorithm that is impossible to break, so I will give you the ciphertext because I know that you can't break it.
 In fact, I'm so confident that you can't crack it that I'm willing to tell you I used my password as the secret key!
