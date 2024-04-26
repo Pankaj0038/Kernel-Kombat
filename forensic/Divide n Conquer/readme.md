@@ -1,4 +1,5 @@
 # Challenge Name: Divide n Conquer
+Author: **purb03ragnarok**
 
 ## Description:
 Bruh!! binwalk not binwalking? Try harder.  
@@ -19,5 +20,14 @@ File attached: [bruh.gif](bruh.gif)
    ![Alt text](images/ss2.png?raw=true)  
    The hexadecimal dump of 2 GIF files are added one after the other.
 
-3. I wrote this [script.py](script.py) to obtain the 2 GIF files from [bruh.gif](bruh.gif)
-   
+3. I wrote this [script.py](script.py) to obtain the 2 GIF files from [bruh.gif](bruh.gif)  
+   You can obtain the size of first GIF from here:
+   ![Alt text](images/ss3.png?raw=true)
+
+4. This is the [second GIF](images/hexahue.gif) which you will get using [script.py](script.py).  
+   You may use this [link](https://ezgif.com/split) to extract all frames from this GIF.  
+   This is **HEXAHUE** cipher which can be decrypted [here](https://www.dcode.fr/hexahue-cipher).  
+   ![Alt text](images/ss4.png?raw=true)
+
+
+FLAG: kernelkombat{EWWBROTHERWHATSTHAT69034}
